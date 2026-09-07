@@ -19,7 +19,7 @@ A collection of 30 Python coding challenges designed to strengthen core programm
 
 ## 📓 Notebook
 
-[View Python 30 Coding Challenges](Python_30_Coding_Challenges_Nitin_Tiwari.ipynb)
+[View Python 30 Coding Challenges](https://github.com/nitintiwari-Lab/python-30-coding-challenges/blob/main/Python_30_Coding_Challenges_Nitin_Tiwari.ipynb)
 
 ## 🎯 Purpose
 
