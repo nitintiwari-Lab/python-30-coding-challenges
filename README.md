@@ -35,8 +35,4 @@ This project demonstrates my Python fundamentals, logical thinking, and problem-
 
 Data Analyst | Python | SQL | Excel | Power BI
 
-## 👨‍💻 Author
 
-**Nitin Tiwari**
-
-Data Analyst | Python | SQL | Excel | Power BI
